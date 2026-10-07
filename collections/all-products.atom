@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://postevand.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://postevand.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://postevand.com/collections/all-products.atom"/>
+  <title>Postevand</title>
+  <updated>2023-08-02T10:13:19+02:00</updated>
+  <author>
+    <name>Postevand</name>
+  </author>
+  <entry>
+    <id>https://postevand.com/products/8622921253199</id>
+    <published>2023-08-02T10:13:19+02:00</published>
+    <updated>2023-08-02T10:13:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://postevand.com/products/postevand-x-forlaget-virkelig"/>
+    <title>Postevand x Forlaget Virkelig</title>
+    <s:type></s:type>
+    <s:vendor>Postevand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1721/2643/files/BookFront.png?v=1690969235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Postevand<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1">In this special release you get to discover the captivating work of Kim Stanley Robinson, an acclaimed American science fiction author. Time Magazine recognized him as a "Hero of the Environment" for his visionary storytelling, ecological consciousness, and future-historical perspectives.<br data-mce-fragment="1"></span><span data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1">In 2021, Robinson was invited to COP26, where he contributed with the text "Remembering Climate Change - A Message from the Year 2071." This powerful narrative reveals how humanity confronted the climate crisis and took charge of the biosphere. Now, this impactful story is available in Danish translation.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://postevand.com/products/8622921253199</id>
+      <title>One Size</title>
+      <s:price currency="DKK">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://postevand.com/products/6820755537986</id>
+    <published>2022-09-30T00:21:29+02:00</published>
+    <updated>2022-09-30T00:21:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://postevand.com/products/postevand-x-sigg-bottle"/>
+    <title>Postevand x SIGG Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Postevand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1721/2643/products/Sigg-bottle.png?v=1664492987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Postevand<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our reusable bottle is a collaboration with Swiss company SIGG. The bottle is made in Switzerland from one piece of high-quality recycled aluminium sourced in Europe. It is lightweight, durable and free from harmful chemicals including BPA and phthalates. It is made to stay with you for a lifetime and keep you hydrated when you are far away from the tap.<br><br>SIGG has been producing high-quality aluminium products since 1908. Since 1993, one of their lightweight and reusable aluminium bottles has been displayed at MoMA in New York.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://postevand.com/products/6820755537986</id>
+      <title>0.40L / Aluminium</title>
+      <s:price currency="DKK">149.00</s:price>
+      <s:sku>56096</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://postevand.com/products/6820754587714</id>
+    <published>2022-09-30T00:19:37+02:00</published>
+    <updated>2022-09-30T00:19:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://postevand.com/products/postevand-carton"/>
+    <title>Postevand Carton</title>
+    <s:type></s:type>
+    <s:vendor>Postevand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1721/2643/files/330mlfront-new_e1c92410-3abe-43ba-bc3e-4d8f1fd781a5.png?v=1754943482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Postevand<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            156.00 - 168.00
+            <a href="https://postevand.com/products/postevand-carton">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Danish tap water and plant-based packaging. Danish tap water is recognised as some of the world's best drinking water. At least 96% of our carton originates as plants. The result: a packaging that starts with plants and ends with lower climate impact.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://postevand.com/products/6820754587714</id>
+      <title>0.33L / Box of 24</title>
+      <s:price currency="DKK">156.00</s:price>
+      <s:sku>55527</s:sku>
+      <s:grams>8565</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://postevand.com/products/6820754587714</id>
+      <title>0.50L / Box of 24</title>
+      <s:price currency="DKK">168.00</s:price>
+      <s:sku>30473</s:sku>
+      <s:grams>12762</s:grams>
+    </s:variant>
+  </entry>
+</feed>
